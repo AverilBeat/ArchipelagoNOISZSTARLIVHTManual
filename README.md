@@ -1,2 +1,4 @@
 # ArchipelagoNOISZSTARLIVHTManual
-A client for tracking the game NOISZ STARLIVHT in an Archipelago randomizer
+
+## What does this do?
+This is a manual apworld for the game NOISZ STARLIVHT created using the Archipelago Manual client, allowing a multiworld randomizer playthrough of the game without modifying any of the game's files.
